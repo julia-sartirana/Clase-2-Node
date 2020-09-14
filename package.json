@@ -1,0 +1,26 @@
+{
+  "name": "clase-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julia-sartirana/Clase-2-Node.git"
+  },
+  "author": "julia sartirana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julia-sartirana/Clase-2-Node/issues"
+  },
+  "homepage": "https://github.com/julia-sartirana/Clase-2-Node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
